@@ -17,6 +17,7 @@
 
 html {
   font-size: 16px;
+  margin: auto;
 }
 
 body {
@@ -42,3 +43,38 @@ video {
 /* ====================================
 // base rules
 // ==================================== */
+
+.links {
+  text-align: center;
+  margin: 30px;
+}
+
+.red-button {
+  text-align: center;
+  background-color: red;
+}
+
+.red-button p {
+  text-align: center;
+  background-color: red;
+  color: white;
+  padding: 5px;
+  border-radius: 30px;
+}
+
+h1 {
+  text-align: center;
+  margin: 30px;
+}
+p {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  margin: 20px;
+}
+
+.grey-box {
+  background-color: lightgrey;
+}
