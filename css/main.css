@@ -1,4 +1,4 @@
-/* ====================================
+====================================
 // css variables
 // ==================================== */
 
@@ -27,10 +27,12 @@ body {
 
   font-size: 1rem;
   line-height: 1.5rem;
+  font-family: 'Libre Franklin', sans-serif;
 }
 
 a {
   color: inherit;
+  font-size: 16px;
 }
 
 img,
@@ -51,28 +53,43 @@ video {
 
 .red-button {
   text-align: center;
-  background-color: red;
+  
 }
 
 .red-button p {
   text-align: center;
-  background-color: red;
   color: white;
   padding: 5px;
-  border-radius: 30px;
+  border-radius: 30px;s
 }
 
 h1 {
   text-align: center;
   margin: 30px;
+  font-family: 'Sorts Mill Goudy', serif;
+  font-size: 24px;
+  line-height: 1.2
 }
+  
+ 
 p {
   text-align: center;
+  font-family: 'Sorts Mill Goudy', serif;
+  font-size: 16px;
+  line-height: 1.2
 }
 
 h2 {
   text-align: center;
   margin: 20px;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-family: 'Sorts Mill Goudy', serif;
+  padding-left: 15px;
 }
 
 .grey-box {
@@ -81,4 +98,20 @@ h2 {
 
 figuraction {
   text-align: center;
+} 
+
+footer {
+  background-color: black;
+  color: rgb(255, 255, 255);
+} 
+img {
+  padding: 20px;
+}
+
+figuraption {
+  padding: 20px;
+}
+
+.explications {
+  background-color: rgb(255, 0, 0);
 }
