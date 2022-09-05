@@ -92,23 +92,23 @@ h3 {
   padding-left: 15px;
 }
 
+h4 {
+  font-family: 'Sorts Mill Goudy', serif;
+  padding-left: 15px;
+}
 .grey-box {
   background-color: lightgrey;
 }
-
-figuraction {
-  text-align: center;
-} 
-
 footer {
   background-color: black;
   color: rgb(255, 255, 255);
 } 
-img {
-  padding: 20px;
+
+a footer {
+  padding: 2opx;
 }
 
-figuraption {
+img {
   padding: 20px;
 }
 
